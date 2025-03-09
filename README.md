@@ -1,4 +1,5 @@
-## Hi there 👋
+Motivated and ambitious MIS student with a passion for learning and innovation. Fluent in three languages, with strong communication and adaptability skills. Eager to apply my knowledge and abilities in a dynamic environment while gaining practical experience.
+
 
 <!--
 **aminsaikou/aminsaikou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
